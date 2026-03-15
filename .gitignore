@@ -1,0 +1,58 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+_ReSharper*/
+*.DotSettings.user
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Test results
+TestResults/
+coverage/
+*.trx
+*.coverage
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!packages/repositories.config
+
+## Rider
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Secrets
+appsettings.*.json
+!appsettings.Development.json
+secrets.json
+
+## Docker
+.dockerignore
+
+## OS
+.DS_Store
+Thumbs.db
