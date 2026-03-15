@@ -90,7 +90,7 @@ O worker utiliza `autoAck: false` e `BasicQos(prefetchCount: 1)`. A mensagem só
 **Pré-requisito:** Docker e Docker Compose.
 
 ```bash
-git clone https://github.com/seu-usuario/orderflow.git
+git clone https://github.com/pedroocastilho/orderflow.git
 cd orderflow
 docker compose up -d
 ```
