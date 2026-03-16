@@ -175,3 +175,7 @@ O pipeline do GitHub Actions executa a cada push em `main` ou `develop` e em pul
 4. Build das imagens Docker de ambos os serviços
 
 Consulte [`.github/workflows/ci.yml`](.github/workflows/ci.yml).
+
+---
+
+*Pedro Castilho • castilhodev.com.br • github.com/pedroocastilho*
